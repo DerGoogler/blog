@@ -18,7 +18,7 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Blog                          # the main title
+title: Blog                           # the main title
 
 tagline: A blog from Der_Googler   # it will display as the sub-title
 
