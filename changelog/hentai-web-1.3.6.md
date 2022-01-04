@@ -15,7 +15,6 @@ comments: false
 math: true
 mermaid: true
 authors: []
-layout: Posts
 
 ---
 ![Untitled 2](https://user-images.githubusercontent.com/54764558/147851718-16e54974-8d22-477a-a372-ee7eea31e8bd.png)
