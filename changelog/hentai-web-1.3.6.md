@@ -12,8 +12,8 @@ date: 2022-01-03T23:00:00.000+00:00
 categories:
 - Hentai Web
 comments: false
-math: false
-mermaid: false
+math: true
+mermaid: true
 authors: []
 layout: posts
 
