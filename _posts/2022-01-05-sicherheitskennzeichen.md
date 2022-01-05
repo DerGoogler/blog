@@ -14,8 +14,6 @@ comments: false
 authors: []
 
 ---
-# Sicherheitskennzeichen
-
 Hier können Sie eine kleine Liste zu den Sicherheitskennzeichen herunterladen (PDF)
 
 ## Downloads
