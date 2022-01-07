@@ -14,3 +14,6 @@ authors:
 - Der_Googler
 
 ---
+Derzeit wird überlegt ob `dergoogler.com` zu `blog.dergoogler.com` umbenannt wird. das heißt, dass die Aktuellen Services wie Hentai Web und weitere eventuell auf `service.dergoogler.com` verlegt wird.
+
+Ich hoffe, dass bis zum Ende des jetzigen Wochenende eine Entscheidung getroffen wird. 
