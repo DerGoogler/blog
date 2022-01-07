@@ -14,6 +14,6 @@ authors:
 - Der_Googler
 
 ---
-Derzeit wird überlegt ob `dergoogler.com` zu `blog.dergoogler.com` umbenannt wird. das heißt, dass die Aktuellen Services wie Hentai Web und weitere eventuell auf `service.dergoogler.com` verlegt wird.
+It is currently being considered whether `dergoogler.com` will be renamed to` blog.dergoogler.com`. This means that the current services such as Hentai Web and others may be moved to `service.dergoogler.com`.
 
-Ich hoffe, dass bis zum Ende des jetzigen Wochenende eine Entscheidung getroffen wird. 
+I hope a decision will be made by the end of this weekend.
