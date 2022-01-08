@@ -15,3 +15,20 @@ comments: false
 authors: []
 
 ---
+# Anmeldung zu Hentai Web (Android)
+Diese anmeldung ist gemacht, damit keine kleinen Kinder darauf zugreifen können.   
+
+- `MANUFACTURER` ist dein Handy Hersteller
+- `MODEL` ist dein Handy Model
+
+Beides muss groß geschrieben werden, sonst geht es nicht (Sollten diverse Verstöße festgestellt werden, werden Geräte zur Block-Liste hinzugefügt).
+
+Die Informationen können in den Einstellungen gefunden werden. Es is bei jeden Gerät anders.
+
+Beispiel:
+
+- MANUFACTURER: `ZTE`
+- MODEL: `ZTE BLADE L7`
+
+# Anmeldung zu Hentai Web (Browser)
+Öffne die DevTools, gehe zur Konsole und schreibe `navigator.appCodeName` und `navigator.platform`. Und fertig, schon hast du deine anmeldedaten
